@@ -6,7 +6,7 @@ import PartsCard from '../components/Cards/PartsCard';
 import * as prostheticsServices from '../services/prosthetics';
 import * as categoryServices from '../services/categories';
 import Autosuggest from 'react-autosuggest';
-import './SlayinIt.css';
+import './Evil.css';
 
 let categories;
 
